@@ -1,4 +1,7 @@
-<h1 align=center>Apollo Hugo | <a target="_blank" href="https://demo.gethugothemes.com/apollo" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fapollo%2F">Page Speed (98%)</a></h1>
+<h1 align=center>Apollo Hugo</h1>
+
+<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/apollo" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fapollo%2">Page Speed (84%)🚀</a></h2>
+ 
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.58.0" alt="Contributors">
@@ -21,22 +24,22 @@
 ---
 
 <p align="center">
-<img src="https://demo.gethugothemes.com/thumbnails/apollo.webp" alt="screenshot" width="100%">
+<img src="https://demo.gethugothemes.com/thumbnails/apollo.png" alt="screenshot" width="100%">
 </p>
 
 ---
-## Features
-- Google analytics  support
-- CSS and Js bundle with hugo pipe
-- Netlify settings predefine
-- Forestry cms pre-configured
-- Color and fonts variable in config file
-- Google page speed optimized ( 98% )
-- Open graph meta tag
-- Twitter card meta tag
+## 🔑Key Features
+- 📊 Google Analytics support
+- 🎨 CSS and JS bundle with Hugo Pipe
+- ⚙️ Netlify settings predefined
+- 🅱️ Bootstrap
+- 🎨 Color and fonts variable in config file
+- 🚀 Google Page Speed optimized (98%)
+- 🌐 Open Graph meta tag
+- 🐦 Twitter Card meta tag
 
 
-## Local development
+## 🔧Local development
 
 ```bash
 # clone the repository
@@ -50,7 +53,7 @@ $ hugo server --themesDir ../..
 ```
 Or Check out [Full Documentation](https://docs.gethugothemes.com/apollo/?ref=github).
 
-## Content Management System
+## 📋Content Management System
 
 [![import to
 Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=gethugothemes/apollo-hugo&engine=hugo&version=0.87.0)
@@ -61,19 +64,19 @@ you will be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
-## Deployment and hosting
+## ⚙️Deployment and hosting
 
 [![Deploy to
 Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gethugothemes/apollo-hugo)
 
 Follow the steps.
 
-## Prefer a video? (Hugo + Netlify + Forestry)
+## 🎥Prefer a video? (Hugo + Netlify + Forestry)
 Build your website with **Apollo Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
-## Reporting Issues
+## 🐞Reporting Issues
 We use GitHub Issues as the official bug tracker for the apollo Template. Please Search [existing
 issues](https://github.com/gethugothemes/apollo-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
@@ -84,7 +87,7 @@ issue](https://github.com/gethugothemes/apollo-hugo/issues).
 View all the websites powered by apollo Hugo theme [here](https://github.com/gethugothemes/apollo-hugo/wiki/All-apollo-hugo-theme-Powered-Websites). Want to submit your own website powered by apollo Hugo theme? You can submit it [here](https://github.com/gethugothemes/apollo-hugo/discussions/3). -->
 
 <!-- licence -->
-## License
+## 📄License
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
@@ -94,19 +97,19 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 <!-- resources -->
-## Special Thanks
+## 🙏Special Thanks
 - [Bootstrap](https://getbootstrap.com)
 - [Font Awesome Icons](https://fontawesome.com)
 - [Google Fonts](http://fonts.google.com/)
 - [All Contributors](https://github.com/gethugothemes/apollo-hugo/graphs/contributors)
 
 
-## Hire Us
+## 👨‍💻Hire Us
 We are available for **Hiring** for your next HUGO project. Please, check our
 [services](https://gethugothemes.com/services/?ref=github)
 
 <!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Liva](https://demo.gethugothemes.com/thumbnails/liva.webp)](https://gethugothemes.com/products/Liva/) | [![kross](https://demo.gethugothemes.com/thumbnails/kross.webp)](https://gethugothemes.com/products/Kross/) |
+## 💎Premium Themes By Us
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png)](https://gethugothemes.com/bundle) | [![Liva](https://demo.gethugothemes.com/thumbnails/liva.png)](https://gethugothemes.com/products/Liva/) | [![kross](https://demo.gethugothemes.com/thumbnails/kross.png)](https://gethugothemes.com/products/Kross/) |
 |:---:|:---:|:---:|
 | **Premium Theme Bundle (40+)** | **Liva** | **Kross** |
